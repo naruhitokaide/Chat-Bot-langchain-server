@@ -1,0 +1,6 @@
+.idea
+files
+.env
+store
+__pycache__
+settings
